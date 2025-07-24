@@ -1,0 +1,9 @@
+pydantic
+agno
+google-genai
+SqlAlchemy
+motor
+redis
+asyncpg
+thefuzz
+fastapi
